@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639403330308",
+    "project_id": "easemydeal-e8fe7",
+    "storage_bucket": "easemydeal-e8fe7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639403330308:android:8360ca51a082af93c99e51",
+        "android_client_info": {
+          "package_name": "com.easemydeal.easemydeal_assesment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2YAlWRyiBF26sl0j2DJBbV2APQcLq6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
