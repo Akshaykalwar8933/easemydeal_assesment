@@ -41,9 +41,8 @@ dependencies:
   video_player: ^2.11.1
   cached_network_image: ^3.4.1
   flutter_cache_manager: ^3.4.1
-  path_provider: ^2.1.5
-  shimmer: ^3.0.0
-  get_it: ^9.2.1
+#  path_provider: ^2.1.5
+#  get_it: ^9.2.1
 
 dev_dependencies:
   flutter_test:
