@@ -212,10 +212,8 @@ Current index: 3
 [ 1 ]  disposed (too far back)
 [ 2 ]  kept in memory, paused, muted
 [ 3 ]  ▶ playing  ← current
-[ 4 ]  preloaded, paused, muted
-[ 5 ]  preloaded, paused, muted
-[ 6 ]  preloaded, paused, muted
-[ 7 ]  not loaded yet
+[ 4 ]  preloaded, paused,
+[ 5 ]  not loaded yet
 ```
 
 - Scroll is **locked** until the current video's controller is initialized
